@@ -4,6 +4,8 @@
 
 ## 👨‍💻 Sobre Mim
 
+- 📄 [Currículo Lattes](http://lattes.cnpq.br/3101918944712622)
+
 Sou um desenvolvedor Fullstack com experiência sólida em tecnologias de frontend e backend, criando aplicações robustas, escaláveis e com foco na experiência do usuário. Tenho domínio em linguagens como JavaScript, Java e Python, atuando com frameworks como ReactJS, NextJS, Node.js e Spring Boot.
 
 Busco sempre aplicar boas práticas de desenvolvimento, mantendo a qualidade do código e entregando soluções eficientes que atendem às necessidades do negócio e do usuário.
@@ -54,12 +56,11 @@ _Abr/2025 - Atual_
 
 ## 📫 Contato
 
-- 📱 WhatsApp: +55 (16) 98249-9530  
+- 📱 WhatsApp: [+55 (16) 98249-9530](https://wa.me/5516982499530)  
 - 📧 Email: viniherofactory@gmail.com  
 - 💼 LinkedIn: [Vinícius Eduardo de Souza Honório](https://www.linkedin.com/in/vinícius-eduardo-de-souza-honório)  
 - 💻 GitHub: [@megaVE](https://github.com/megaVE)  
 - 📍 Alfenas - MG  
-- 📄 [Currículo Lattes](http://lattes.cnpq.br/3101918944712622)
 
 ---
 
