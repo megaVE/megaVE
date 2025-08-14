@@ -39,7 +39,7 @@ _Abr/2025 — Atual_
 - Criação de templates reutilizáveis para orçamentos comerciais.
 - Desenvolvimento de site institucional com foco em captação de leads.
 - Suporte em organização interna e produção de conteúdo digital.
-- 
+
 **Polygon Soluções Computacionais** — Alfenas, MG  
 _Fev/2024 — Mar/2025_  
 - Desenvolvimento de interfaces web com HTML, CSS, JavaScript e TypeScript.
