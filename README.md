@@ -8,7 +8,7 @@
 
 Desenvolvedor Fullstack com mais de 1 ano de experiência prática em projetos web, com foco em Frontend moderno utilizando React.js, Next.js, TypeScript e TailwindCSS.
 
-Graduado em Ciência da Computação pela UNIFAL (2024) e atualmente em pós-graduação em Arquitetura Java pela FIAP, onde aprofundo conhecimentos em Spring Boot, PostgreSQL e Docker.
+Graduado em Ciência da Computação pela UNIFAL (2024) e Pós-graduado em Arquitetura Java pela FIAP.
 
 Já atuei no desenvolvimento de aplicações escaláveis, criação de componentes reutilizáveis e integração com APIs REST, sempre aplicando boas práticas como Clean Code, arquitetura MVC e testes automatizados com Jest e Vitest.
 
